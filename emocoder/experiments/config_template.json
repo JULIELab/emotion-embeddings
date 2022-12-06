@@ -1,0 +1,4 @@
+{
+  "EMOTION_CODEC_PATH": "emocoder/target/mapping/multitask/dev/no_nrc-2022-08-03-152914/checkpoints/model_93.pt",
+  "EMOTION_CODEC_ARCHITECTURE": "no_nrc"
+}
