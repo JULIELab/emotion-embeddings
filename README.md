@@ -1,5 +1,8 @@
 # Emotion Embeddings
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7405327.svg)](https://doi.org/10.5281/zenodo.7405327)
+
+
 This repository holds an extension of the codebase behind the EMNLP 2021 
 [paper](http://doi.org/10.18653/v1/2021.emnlp-main.728) 
 *Towards Label-Agnostic Emotion Embeddings* to facial emotion recognition. It thus generalizes our 
